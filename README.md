@@ -13,7 +13,7 @@ data: [here](https://www.kaggle.com/PromptCloudHQ/airbnb-property-data-from-texa
 
 Basic and insightful plots to understand better the dataset and its features.
 
-
+**Doc2Vec** for document **similarities**, using Gensim and its utilities.
 
 
 ### Dependencies
@@ -25,7 +25,7 @@ Basic and insightful plots to understand better the dataset and its features.
 - spaCy
 - Pandas/Numpy
 - RegEx
-- Seaborn/Matplotlib
+- Seaborn/Matplotlib/Basemap
 - Sci-Kit Learn
 
 
